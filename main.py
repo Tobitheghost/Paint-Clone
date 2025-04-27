@@ -254,7 +254,7 @@ while run:
                                     # print(pixel, (j * PIXEL_SIZE, i * PIXEL_SIZE, PIXEL_SIZE, PIXEL_SIZE))
                                     pixel2 = (pixel[0],pixel[1],pixel[2],255)
                                     print_image.rectangle((((j * PIXEL_SIZE, i * PIXEL_SIZE), (j * PIXEL_SIZE)+PIXEL_SIZE, (i * PIXEL_SIZE)+PIXEL_SIZE)), fill=pixel2)
-                                    image.save('C:/Users/Tobiathan/PycharmProjects/pixel art/boop1.png', 'PNG')
+                                    image.save('boop1.png', 'PNG')
                                 if  x % LOADING_MAX == 0:
                                     print("█", end='')
                         drawing_color = BLACK

@@ -19,4 +19,4 @@ A Paint Clone made with Pygame in Python application.
     
     Mac/Linux: 
 
-        python3 Madlibs.py
+        python3 main.py

@@ -1,5 +1,5 @@
-# Pygame Template by Tobi Ghost
-A in Terminal Mad Libs application.
+# Paint Clone by Tobi Ghost
+A Paint Clone made with Pygame in Python application.
 
 ## Setup
 
